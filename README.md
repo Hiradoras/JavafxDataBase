@@ -15,5 +15,4 @@ drive 1: https://drive.google.com/file/d/1kRQDgAQ-R7M483W87zzllPrEQVTcGaKM/view
 
 drive 2: (Feedback): https://drive.google.com/file/d/17WxYqOV8UiViU9Ab0frnBtPcHUL2K3_M/view
 
-![GitHub Logo](pics/Screenshot (33).png)
-Format: ![Alt Text](url)
+![Screenshot (40)](https://user-images.githubusercontent.com/57260974/103024720-97cc3000-457a-11eb-930d-301a03afaa0d.png)
